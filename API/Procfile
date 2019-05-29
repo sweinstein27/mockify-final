@@ -1,0 +1,3 @@
+web: cd frontend && cd client && npm start
+auth: cd frontend && cd auth-server && node authorization_code/app.js
+
